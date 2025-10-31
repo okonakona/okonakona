@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="220" viewBox="0 0 1600 220" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#FF6BA6"/>
+      <stop offset="50%" stop-color="#7AD1FF"/>
+      <stop offset="100%" stop-color="#DA70D6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dots" width="80" height="80" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="2" fill="rgba(255,255,255,0.06)"/>
+      <circle cx="50" cy="30" r="2" fill="rgba(255,255,255,0.04)"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="220" fill="url(#g1)" filter="url(#glow)"/>
+  <rect width="1600" height="220" fill="url(#dots)" opacity="0.15"/>
+  <g transform="translate(40,40)" opacity="0.12">
+    <circle cx="200" cy="20" r="40" fill="#fff"/>
+    <circle cx="400" cy="80" r="30" fill="#fff"/>
+    <circle cx="800" cy="30" r="50" fill="#fff"/>
+  </g>
+  <g transform="translate(1200,30)" opacity="0.18">
+    <rect x="0" y="0" width="220" height="60" rx="12" fill="#ffffff" opacity="0.04"/>
+  </g>
+</svg>
