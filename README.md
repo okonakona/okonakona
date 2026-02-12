@@ -1,6 +1,6 @@
 # Hi — I'm okonakona 👋
 
-初期アイコンが可愛いのが自慢です❤️
+初期アイコンが可愛いのが自慢です♡
 
 <p align="center">
   <img src="assets/header-gradient-gacha.svg" alt="header" width="100%"/>
@@ -18,13 +18,6 @@
 ## skills
 <p align="center">
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ts,react,next,php,python,astro,mysql,docker,figma" />
-</p>
-
----
-
-<p align="center"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okonakona&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okonakona&theme=onedark&show_icons=ture" />
 </p>
 
 ---
