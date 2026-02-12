@@ -4,6 +4,8 @@
   <img src="assets/header-gradient-gacha.svg" alt="header" width="100%"/>
 </p>
 
+初期アイコンが可愛いのが自慢です❤️
+
 <div align="center">
   <!-- flashy "gacha" style badges -->
   <img src="https://img.shields.io/badge/✨-Open%20to%20Work-FF6BA6?style=for-the-badge&logo=github" alt="Open to Work"/>
