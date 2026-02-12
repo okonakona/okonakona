@@ -1,8 +1,4 @@
 # Hi — I'm okonakona 👋
-
-<P>
-  初期アイコンが可愛いのが自慢です♡
-<p/>
 <p>
   ⠀⠀⠀⢸⣦⡀⠀⠀⠀⠀⢀⡄<br>
 ⠀⠀⠀⢸⣏⠻⣶⣤⡶⢾⡿⠁⠀⢠⣄⡀⢀⣴<br>
@@ -13,10 +9,14 @@
 ⠀⠀⠀⠀⠀⠟⠁⠀<br>
 </p>
 
-
 <p align="center">
   <img src="assets/header-gradient-gacha.svg" alt="header" width="100%"/>
 </p>
+
+<P align="center">
+  初期アイコンが可愛いことが自慢です♡
+<p/>
+  
 
 <div align="center">
   <!-- flashy "gacha" style badges -->
@@ -30,6 +30,13 @@
 ## skills
 <p align="center">
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ts,react,next,php,python,astro,mysql,docker,figma,illustrator,photoshop" />
+</p>
+
+<p>
+　 ∧,,∧<br>
+　(；`・ω・）　　｡･ﾟ･⌒） チャーハン作るよ！！<br>
+　/　　 ｏ━ヽニニフ))<br>
+　しー-Ｊ<br>
 </p>
 
 ---
