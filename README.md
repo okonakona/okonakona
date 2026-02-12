@@ -1,10 +1,10 @@
 # Hi — I'm okonakona 👋
 
+初期アイコンが可愛いのが自慢です❤️
+
 <p align="center">
   <img src="assets/header-gradient-gacha.svg" alt="header" width="100%"/>
 </p>
-
-初期アイコンが可愛いのが自慢です❤️
 
 <div align="center">
   <!-- flashy "gacha" style badges -->
