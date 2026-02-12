@@ -20,9 +20,9 @@
 
 <div align="center">
   <!-- flashy "gacha" style badges -->
-  <img src="https://img.shields.io/badge/✨-Open%20to%20Work-FF6BA6?style=for-the-badge&logo=github" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/🌈-FullStack-7AD1FF?style=for-the-badge" alt="FullStack"/>
-  <img src="https://img.shields.io/badge/🖼️-Design%20&%20Code-FFD54F?style=for-the-badge" alt="Design & Code"/>
+  <img src="https://img.shields.io/badge/✨-Open%20to%20Work-F8EA70?style=for-the-badge&logo=github" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/🌈-FullStack-FCFFFF?style=for-the-badge" alt="FullStack"/>
+  <img src="https://img.shields.io/badge/🖼️-Design%20&%20Code-0266D8?style=for-the-badge" alt="Design & Code"/>
 </div>
 
 ---
