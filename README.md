@@ -17,7 +17,7 @@
 
 ## skills
 <p align="center">
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ts,react,next,php,python,astro,mysql,docker,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ts,react,next,php,python,astro,mysql,docker,figma,Illustrator,Photoshop" />
 </p>
 
 ---
