@@ -23,7 +23,8 @@
 ---
 
 ## Featured Projects
-- [メイクシミュレーション](https://github.com/okonakona/standout) — 男性のメイクアップを手助けするwebアプリ
+- [メイクシミュレーション](https://github.com/okonakona/standout) — 男性のメイクアップを手助けするwebアプリ
+- [食べたもの報告アプリ](https://github.com/okonakona/eatables) - 子供と親の新しいコミュニケーションwebアプリ
 - [カレンダー作成](https://github.com/okonakona/webt_time) — apiを使用した今日はなんの日カレンダー
 
 ---
